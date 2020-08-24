@@ -1,3 +1,7 @@
+Project were the task consisted in visualising data using the P5 library. 
+
+________________________________________________________________________________________-
+
 # Welcome to p5.js
 
 You have downloaded the complete p5.js library ZIP file, yay!
